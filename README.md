@@ -30,7 +30,7 @@ Model was trained on 50 epochs.
 
 <b><i>5. Model Summary and training process: </i></b>
 
-<img src="https://i.ibb.co/VtdNNZZ/podsumowanie.png" width="346" height="506">
+<img src="https://i.ibb.co/KqRzKzW/modelsummary.png" width="346" height="506">
 
 <b><i>6. Training results visualisation: </i></b>
 
