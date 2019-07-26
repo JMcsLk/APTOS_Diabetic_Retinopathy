@@ -37,3 +37,8 @@ Model was trained on 50 epochs.
 <img src="https://i.ibb.co/G9crLL8/wizualizacja-treningu.png">
 
 If there is problem to render .ipynb file please check: https://nbviewer.jupyter.org/github/JMcsLk/APTOS_Diabetic_Retinopathy/blob/master/APTOS_Keras.ipynb
+
+References:
+https://en.wikipedia.org/wiki/Diabetic_retinopathy
+https://www.kaggle.com/tanlikesmath/intro-aptos-diabetic-retinopathy-eda-starter
+https://www.kaggle.com/xhlulu/aptos-2019-densenet-keras-starter
